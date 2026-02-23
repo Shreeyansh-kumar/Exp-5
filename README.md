@@ -3,9 +3,10 @@
 
 lazyloading
 
-<img width="437" height="258" alt="image" src="https://github.com/user-attachments/assets/27dedd88-5235-42aa-af27-e1c7656edc07" />
-<img width="693" height="437" alt="image" src="https://github.com/user-attachments/assets/ba5766dc-379a-416b-a453-414847b93671" />
-<img width="350" height="317" alt="image" src="https://github.com/user-attachments/assets/17a3c715-7fe9-4cc7-acb1-e7904260ca5c" />
-<img width="453" height="260" alt="image" src="https://github.com/user-attachments/assets/dba79b05-da3e-4c92-998a-de099aa55807" />
+<img width="782" height="320" alt="image" src="https://github.com/user-attachments/assets/f1cb4bb4-d96a-48b0-86aa-796e8c7de490" />
+<img width="580" height="221" alt="image" src="https://github.com/user-attachments/assets/552859db-4231-4ac6-833f-a10de01fbf1f" />
+<img width="675" height="313" alt="image" src="https://github.com/user-attachments/assets/153bb7c6-cd44-4a8c-8bce-a8d4147e2535" />
+<img width="577" height="347" alt="image" src="https://github.com/user-attachments/assets/ec1f6196-69f0-42c0-b689-fffb8cb1886d" />
+
 
 route-based-lazyloading
